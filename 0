@@ -1,0 +1,3 @@
+lavad keys show wallet -a
+
+lavad q bank balances $<lavad keys show wallet -a>
